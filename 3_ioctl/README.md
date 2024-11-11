@@ -2,6 +2,9 @@
 - app 에서 ioctl 명령어를 이용하여, 3번, 4번, 5번 신호를 Device Module에게 전달한다.
 - Device Module은 3번, 4번, 5번 신호에 따라 커널로그를 달리 출력한다.
 
+### 동작 화면
+![image](https://github.com/user-attachments/assets/d2aa4195-a967-4098-9e05-c775f6dfc7a8)
+
 ### 코드 실행방법
 먼저 Device File을 수동으로 생성한다.
 ```
