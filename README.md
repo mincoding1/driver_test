@@ -5,7 +5,7 @@
 git 설치 후 클론받기
 ```
 sudo apt install git -y
-git clone git clone https://github.com/mincoding1/driver_test.git
+git clone https://github.com/mincoding1/driver_test.git
 ```
 
 ### 폴더 내용
