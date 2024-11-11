@@ -1,6 +1,6 @@
 ### 내용
-디바이스 파일을 수동으로 만든다.
-App에서 Kernel Module을 호출한다.
+- 디바이스 파일을 수동으로 만든다.
+- App에서 Kernel Module을 호출한다.
 
 ### 실행결과
 1. driver를 insmod 한다.
