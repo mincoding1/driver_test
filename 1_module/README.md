@@ -7,6 +7,13 @@
 
 ### 실행방법
 ```
+make
 sudo insmod hi.ko
 sudo rmmod hi
+```
+
+### 커널로그 확인방법
+새로운 터미널 창을 하나 더 띄운 후, 다음 명령어를 수행한다.
+```
+dmesg -w
 ```
